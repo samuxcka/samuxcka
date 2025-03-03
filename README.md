@@ -1,3 +1,27 @@
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">- Computer Engeneer<br>- Java developer<br>- Oficial do Exército Brasileiro</p>
+
+###
+
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
+
+###
+
 <h2 align="left">Stats</h2>
 
 ###
